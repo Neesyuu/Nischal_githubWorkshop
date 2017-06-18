@@ -1,2 +1,4 @@
 def feature1:
 	print "this is 2nd day 1st try"
+def newFunction:
+	printf " i dnt know"
